@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D10-SensorApp</string>
+    <string name="sensor_name_placeholder">$SensorName</string>
+    <string name="sensor_info_placeholder">$SensorInfo</string>
+    <string name="sensor_values_placeholder">$SensorValues</string>
+    <string name="app_description">Diese Liste zeigt die aktuellen Daten aller verfügbaren Sensoren auf dem Gerät an.</string>
+</resources>
